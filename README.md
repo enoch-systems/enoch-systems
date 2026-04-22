@@ -4,7 +4,7 @@ Systems-focused software engineer designing and shipping production-grade SaaS i
 
 I build structured, end-to-end business systems with an emphasis on clarity, operational visibility, and long-term scalability — particularly in real-world markets where reliability and process control matter more than hype.
 
----
+
 
 ## Core Focus
 
@@ -14,7 +14,7 @@ I build structured, end-to-end business systems with an emphasis on clarity, ope
 - Clear system boundaries and predictable data flow  
 - Production-oriented engineering decisions  
 
----
+
 
 ## Engineering Approach
 
@@ -26,7 +26,7 @@ I build structured, end-to-end business systems with an emphasis on clarity, ope
 Software is infrastructure.  
 I build accordingly.
 
----
+
 
 ## Work
 
@@ -36,6 +36,6 @@ Pinned repositories below reflect:
 - Clean commit history & documentation  
 - Production-minded thinking  
 
----
+
 
 Open to collaborating on infrastructure-driven SaaS, system architecture, and operational technology platforms.
