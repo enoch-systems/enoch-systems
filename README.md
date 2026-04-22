@@ -2,7 +2,7 @@
 
 Systems-focused software engineer designing and shipping production-grade SaaS infrastructure.
 
-I build structured, end-to-end business systems with an emphasis on clarity, operational visibility, and long-term scalability — particularly in real-world markets where reliability and process control matter more than hype.
+I build structured, end-to-end business systems with an emphasis on clarity, operational visibility, and long-term scalability particularly in real-world markets where reliability and process control matter more than hype.
 
 
 
