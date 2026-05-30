@@ -26,7 +26,7 @@ Current focus areas: fintech-style systems, logistics operations, fraud-aware wo
 
 Below are the architectural layers I work across — from client-facing interfaces down to infrastructure and monitoring.
 
-
+<br>
 
 ### Client Layer
 
@@ -36,8 +36,7 @@ Below are the architectural layers I work across — from client-facing interfac
 
 **Concepts:** SSR / SSG / ISR, auth flows (JWT / OAuth2), responsive design, API consumption, state management, role-based UI
 
----
-
+<br>
 
 ### Communication / API Layer
 
@@ -47,7 +46,7 @@ Below are the architectural layers I work across — from client-facing interfac
 
 **Concepts:** Versioning, middleware chains, rate limiting, request validation, error envelopes, CORS, email parsing and routing, MX / DNS record config
 
-
+<br>
 
 ### Backend / Application Logic Layer
 
@@ -57,7 +56,7 @@ Below are the architectural layers I work across — from client-facing interfac
 
 **Concepts:** Separation of concerns, dependency injection, event-driven design, role and permission logic, message parsing and extraction, structured data transformation, feature flags
 
-
+<br>
 
 ### Data Access Layer
 
@@ -67,7 +66,7 @@ Below are the architectural layers I work across — from client-facing interfac
 
 **Concepts:** Row Level Security (RLS), Firestore security rules, ORM vs raw SQL tradeoffs, connection pooling (PgBouncer), query optimization, type-safe queries
 
-
+<br>
 
 ### Storage Layer
 
@@ -77,7 +76,7 @@ Below are the architectural layers I work across — from client-facing interfac
 
 **Concepts:** ACID transactions, indexing strategy, CDN and signed URLs, image transforms, cache invalidation, storage buckets and policies
 
-
+<br>
 
 ### Workflow / Background Jobs Layer
 
@@ -87,7 +86,7 @@ Below are the architectural layers I work across — from client-facing interfac
 
 **Concepts:** Job queues, retry and backoff, idempotency, cron scheduling, dead-letter handling, event-driven triggers, headless PDF rendering
 
-
+<br>
 
 ### Integration Layer
 
@@ -97,7 +96,7 @@ Below are the architectural layers I work across — from client-facing interfac
 
 **Concepts:** Webhook verification (HMAC), OAuth 2.0 flows, IMAP polling and push (IDLE), email parsing (MIME), receipt / invoice generation, PDF export and delivery, idempotent payments, API key management
 
-
+<br>
 
 ### Intelligence / Monitoring Layer
 
@@ -107,7 +106,7 @@ Below are the architectural layers I work across — from client-facing interfac
 
 **Concepts:** Structured logging, error alerting, RAG pipelines, embeddings and vector search, product analytics
 
-
+<br>
 
 ### Architecture Layer
 
@@ -117,7 +116,7 @@ Below are the architectural layers I work across — from client-facing interfac
 
 **Concepts:** Serverless vs containerized, monorepo structure, environment management, zero-downtime deploys, scalability planning
 
-
+<br>
 
 ## Project Domains
 
@@ -127,7 +126,7 @@ National logistics visibility, distributed fraud intelligence networks, SME cred
 **Global SaaS Infrastructure**
 Multi-tenant ERP, workflow automation, identity and access management, compliance and AML, API management, real-time observability, developer platforms, enterprise workflow engines, vendor risk management, contract lifecycle management, banking core platforms, healthcare information exchange.
 
-
+<br>
 
 ## Engineering Philosophy
 
@@ -138,7 +137,7 @@ Business impact over feature volume
 Maintainable structure over shortcuts
 ```
 
-
+<br>
 
 ## GitHub Stats
 
@@ -150,6 +149,7 @@ Maintainable structure over shortcuts
 
 </div>
 
+<br>
 
 ## Pinned Projects
 
@@ -157,7 +157,7 @@ Maintainable structure over shortcuts
 |------------|-------------|
 | [**portfolio**](https://github.com/enoch-systems/portfolio) | Production-grade portfolio — Next.js 16, React 19, TypeScript, Tailwind CSS v4, SSR with App Router, 15+ modular components, animated hero, case studies, skill visualizations |
 
-
+<br>
 
 <div align="center">
 
