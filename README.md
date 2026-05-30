@@ -94,10 +94,10 @@ Below are the architectural layers I work across — from client-facing interfac
 ## Project Domains
 
 **African Market Systems**
-National logistics visibility, distributed fraud intelligence networks, SME credit scoring, merchant operating systems, cooperative banking, agricultural commodity exchange, informal supply chain networks, healthcare referral networks, cross-border payment networks, digital government service platforms.
+Operational platforms built for emerging markets — logistics visibility, fraud detection networks, credit intelligence systems, merchant operating systems, cooperative banking platforms, supply chain networks, healthcare infrastructure, cross-border payment rails, and government service automation.
 
 **Global SaaS Infrastructure**
-Multi-tenant ERP, workflow automation, identity and access management, compliance and AML, API management, real-time observability, developer platforms, enterprise workflow engines, vendor risk management, contract lifecycle management, banking core platforms, healthcare information exchange.
+Enterprise-grade platforms built for scale — multi-tenant ERP, workflow automation, identity and access management, compliance and AML, API governance, real-time observability, developer platforms, contract lifecycle management, vendor risk systems, and core banking infrastructure.
 
 <br>
 
