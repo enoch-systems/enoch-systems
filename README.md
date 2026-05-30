@@ -36,6 +36,7 @@ Below are the architectural layers I work across — from client-facing interfac
 
 **Concepts:** SSR / SSG / ISR, auth flows (JWT / OAuth2), responsive design, API consumption, state management, role-based UI
 
+---
 
 
 ### Communication / API Layer
