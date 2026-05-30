@@ -3,7 +3,8 @@
 # Enoch Chukwudi
 
 **Fullstack Engineer (Backend Focused)**
-Backend architecture, operational SaaS, and infrastructure-driven product design.
+Backend architecture, operational SaaS,
+infrastructure-driven product design.
 
 [![X](https://img.shields.io/badge/-_enochsystems-000?style=flat-square&logo=x&logoColor=white)](https://x.com/_enochsystems)
 [![Email](https://img.shields.io/badge/enochc.official@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:enochc.official@gmail.com)
@@ -16,7 +17,8 @@ Backend architecture, operational SaaS, and infrastructure-driven product design
 
 ## About
 
-Backend-leaning fullstack developer building real-world operational systems. I focus on API design, business workflows, transaction systems, authentication flows, and scalable backend architectures — paired with clean frontend execution.
+Backend-leaning fullstack developer building real-world operational systems.
+I focus on API design, business workflows, transaction systems, authentication flows, and scalable backend architectures, paired with clean frontend execution.
 
 Current focus areas: fintech-style systems, logistics operations, fraud-aware workflows, and structured fullstack applications.
 
@@ -24,7 +26,8 @@ Current focus areas: fintech-style systems, logistics operations, fraud-aware wo
 
 ## Systems I Build
 
-Below are the architectural layers I work across — from client-facing interfaces down to infrastructure.
+Below are the architectural layers I work across,
+from client-facing interfaces down to infrastructure.
 
 <br>
 
@@ -94,10 +97,12 @@ Below are the architectural layers I work across — from client-facing interfac
 ## Project Domains
 
 **African Market Systems**
-Operational platforms built for emerging markets — logistics visibility, fraud detection networks, credit intelligence systems, merchant operating systems, cooperative banking platforms, supply chain networks, healthcare infrastructure, cross-border payment rails, and government service automation.
+Operational platforms built for emerging markets.
+Logistics visibility, fraud detection networks, credit intelligence systems, merchant operating systems, cooperative banking platforms, supply chain networks, healthcare infrastructure, cross-border payment rails, government service automation.
 
 **Global SaaS Infrastructure**
-Enterprise-grade platforms built for scale — multi-tenant ERP, workflow automation, identity and access management, compliance and AML, API governance, real-time observability, developer platforms, contract lifecycle management, vendor risk systems, and core banking infrastructure.
+Enterprise-grade platforms built for scale.
+Multi-tenant ERP, workflow automation, identity and access management, compliance and AML, API governance, real-time observability, developer platforms, contract lifecycle management, vendor risk systems, core banking infrastructure.
 
 <br>
 
