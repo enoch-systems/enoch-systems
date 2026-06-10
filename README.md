@@ -7,26 +7,35 @@ Backend architecture • Operational SaaS • Infrastructure systems
 
 <br>
 
-<!-- ICON LINKS -->
+<!-- SOCIAL LINKS -->
 
 <a href="https://www.linkedin.com/in/enochchukwudi/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="20"/>
+  <span> LinkedIn</span>
 </a>
+&nbsp;&nbsp;
 
 <a href="https://x.com/_enochsystems">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="20"/>
+  <span> X (Twitter)</span>
 </a>
+&nbsp;&nbsp;
 
 <a href="https://github.com/enoch-systems">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="20"/>
+  <span> GitHub</span>
 </a>
+&nbsp;&nbsp;
 
 <a href="mailto:enochc.official@gmail.com">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="20"/>
+  <span> Email</span>
 </a>
+&nbsp;&nbsp;
 
 <a href="https://enochport.vercel.app/">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/vercel.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/vercel.svg" width="20"/>
+  <span> Portfolio</span>
 </a>
 
 </div>
