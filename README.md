@@ -69,47 +69,47 @@ from client-facing interfaces down to infrastructure.
 <br>
 
 ```
-📱 Client Layer
+Client Layer
 ├── Builds: Web apps, dashboards, mobile apps, admin panels
 ├── Core tools: Next.js, React, Flutter
 └── Key concepts: SSR / SSG / ISR, auth flows (JWT / OAuth2), role-based UI
 
-🔗 Communication / API Layer
+Communication / API Layer
 ├── Builds: REST APIs, real-time endpoints, webhooks
 ├── Core tools: Express.js, Hono, FastAPI, tRPC
 └── Key concepts: Versioning, middleware chains, rate limiting, request validation
 
-⚙️ Backend / Application Logic Layer
+Backend / Application Logic Layer
 ├── Builds: Business logic, service modules, multi-tenant systems
 ├── Core tools: Node.js, NestJS, Next.js API Routes
 └── Key concepts: Separation of concerns, event-driven design, dependency injection
 
-🗄️ Data Access Layer
+Data Access Layer
 ├── Builds: Data models, query layers, migrations
 ├── Core tools: Prisma, Drizzle, Supabase (PostgREST)
 └── Key concepts: ORM vs raw SQL tradeoffs, query optimization, type-safe queries
 
-💾 Storage Layer
+Storage Layer
 ├── Builds: File uploads, image pipelines, caching layers
 ├── Core tools: PostgreSQL, Redis, Cloudinary
 └── Key concepts: ACID transactions, indexing strategy, cache invalidation
 
-⏳ Workflow / Background Jobs Layer
+Workflow / Background Jobs Layer
 ├── Builds: Email pipelines, scheduled tasks, async processing
 ├── Core tools: BullMQ, Inngest, Puppeteer
 └── Key concepts: Job queues, retry and backoff, idempotency
 
-🔌 Integration Layer
+Integration Layer
 ├── Builds: Payment flows, third-party syncs, webhook handlers
 ├── Core tools: Stripe, Clerk / Auth0, Resend
 └── Key concepts: OAuth 2.0 flows, webhook verification (HMAC), idempotent payments
 
-📊 Intelligence / Monitoring Layer
+Intelligence / Monitoring Layer
 ├── Builds: Error tracking, usage analytics, logging pipelines
 ├── Core tools: Sentry, PostHog, OpenAI / Anthropic APIs
 └── Key concepts: Structured logging, error alerting, RAG pipelines
 
-🏗️ Architecture Layer
+Architecture Layer
 ├── Builds: Project scaffolds, CI/CD pipelines, deployment configs
 ├── Core tools: Vercel, Docker, GitHub Actions, Turborepo
 └── Key concepts: Serverless vs containerized, zero-downtime deploys, scalability planning
