@@ -3,17 +3,31 @@
 # Enoch Chukwudi
 
 **Fullstack Engineer (Backend-Focused)**  
-Backend architecture • Operational SaaS • Infrastructure-driven systems
+Backend architecture • Operational SaaS • Infrastructure systems
 
 <br>
 
-<!-- Social Links -->
+<!-- ICON LINKS -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-enochchukwudi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enochchukwudi/)
-[![X](https://img.shields.io/badge/X-@_enochsystems-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/_enochsystems)
-[![GitHub](https://img.shields.io/badge/GitHub-enoch--systems-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/enoch-systems)
-[![Email](https://img.shields.io/badge/Email-enochc.official%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enochc.official@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-enochport.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://enochport.vercel.app/)
+<a href="https://www.linkedin.com/in/enochchukwudi/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+</a>
+
+<a href="https://x.com/_enochsystems">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="40"/>
+</a>
+
+<a href="https://github.com/enoch-systems">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+</a>
+
+<a href="mailto:enochc.official@gmail.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/>
+</a>
+
+<a href="https://enochport.vercel.app/">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/vercel.svg" width="40"/>
+</a>
 
 </div>
 
