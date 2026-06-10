@@ -7,35 +7,26 @@ Backend architecture • Operational SaaS • Infrastructure systems
 
 <br>
 
-<!-- SOCIAL LINKS -->
+<!-- SOCIAL ICONS (DARK MODE SAFE) -->
 
 <a href="https://www.linkedin.com/in/enochchukwudi/">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="20"/>
-  <span> LinkedIn</span>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-&nbsp;&nbsp;
 
 <a href="https://x.com/_enochsystems">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="20"/>
-  <span> X (Twitter)</span>
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
-&nbsp;&nbsp;
 
 <a href="https://github.com/enoch-systems">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="20"/>
-  <span> GitHub</span>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-&nbsp;&nbsp;
 
 <a href="mailto:enochc.official@gmail.com">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="20"/>
-  <span> Email</span>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-&nbsp;&nbsp;
 
 <a href="https://enochport.vercel.app/">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/vercel.svg" width="20"/>
-  <span> Portfolio</span>
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </div>
