@@ -2,15 +2,18 @@
 
 # Enoch Chukwudi
 
-**Fullstack Engineer (Backend Focused)**
-Backend architecture, operational SaaS,
-infrastructure-driven product design.
+**Fullstack Engineer (Backend-Focused)**  
+Backend architecture • Operational SaaS • Infrastructure-driven systems
 
-[![LinkedIn](https://img.shields.io/badge/-enochchukwudi-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enochchukwudi/)
-[![X](https://img.shields.io/badge/-_enochsystems-000?style=flat-square&logo=x&logoColor=white)](https://x.com/_enochsystems)
-[![Email](https://img.shields.io/badge/enochc.official@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:enochc.official@gmail.com)
-[![GitHub](https://img.shields.io/badge/-enoch--systems-333?style=flat-square&logo=github&logoColor=white)](https://github.com/enoch-systems)
-[![Portfolio](https://img.shields.io/badge/enochport.vercel.app-000?style=flat-square&logo=vercel&logoColor=white)](https://enochport.vercel.app/)
+<br>
+
+<!-- Social Links -->
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-enochchukwudi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enochchukwudi/)
+[![X](https://img.shields.io/badge/X-@_enochsystems-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/_enochsystems)
+[![GitHub](https://img.shields.io/badge/GitHub-enoch--systems-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/enoch-systems)
+[![Email](https://img.shields.io/badge/Email-enochc.official%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enochc.official@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-enochport.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://enochport.vercel.app/)
 
 </div>
 
