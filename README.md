@@ -6,10 +6,11 @@
 Backend architecture, operational SaaS,
 infrastructure-driven product design.
 
+[![LinkedIn](https://img.shields.io/badge/-enochchukwudi-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enochchukwudi/)
 [![X](https://img.shields.io/badge/-_enochsystems-000?style=flat-square&logo=x&logoColor=white)](https://x.com/_enochsystems)
 [![Email](https://img.shields.io/badge/enochc.official@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:enochc.official@gmail.com)
 [![GitHub](https://img.shields.io/badge/-enoch--systems-333?style=flat-square&logo=github&logoColor=white)](https://github.com/enoch-systems)
-[![Portfolio](https://img.shields.io/badge/enochsystems.vercel.app-000?style=flat-square&logo=vercel&logoColor=white)](https://enochsystems.vercel.app)
+[![Portfolio](https://img.shields.io/badge/enochport.vercel.app-000?style=flat-square&logo=vercel&logoColor=white)](https://enochport.vercel.app/)
 
 </div>
 
@@ -98,11 +99,11 @@ from client-facing interfaces down to infrastructure.
 
 **African Market Systems**
 Operational platforms built for emerging markets.
-Logistics visibility, fraud detection networks, credit intelligence systems, merchant operating systems, cooperative banking platforms, supply chain networks, healthcare infrastructure, cross-border payment rails, government service automation.
+Logistics visibility, fraud detection networks, credit intelligence systems, merchant operating systems, cooperative banking platforms, supply chain networks, healthcare infrastructure, cross-border payments.
 
 **Global SaaS Infrastructure**
 Enterprise-grade platforms built for scale.
-Multi-tenant ERP, workflow automation, identity and access management, compliance and AML, API governance, real-time observability, developer platforms, contract lifecycle management, vendor risk systems, core banking infrastructure.
+Multi-tenant ERP, workflow automation, identity and access management, compliance and AML, API governance, real-time observability, developer platforms, contract lifecycle management, vendor risk systems.
 
 <br>
 
@@ -116,10 +117,6 @@ Maintainable structure over shortcuts
 ```
 
 <br>
-
-
-<br>
-
 
 "I build systems that make money visible and operations predictable."
 
