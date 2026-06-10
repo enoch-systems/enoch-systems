@@ -41,7 +41,7 @@ Nigeria (Remote) — WAT (UTC+1)
 <br><br>
 
 <a href="https://enochport.vercel.app/">
-  <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='28' height='28' viewBox='0 0 24 24' fill='%23000000'%3E%3Cpath d='M24 22.525H0l12-21.05 12 21.05z'/%3E%3C/svg%3E" width="28" height="28" alt="Portfolio"/>
+  <img src="https://raw.githubusercontent.com/enoch-systems/enoch-systems/main/assets/favicon.png" width="40" alt="Portfolio"/>
 </a>
 <br>
 <a href="https://enochport.vercel.app/">enochport.vercel.app</a>
@@ -138,7 +138,7 @@ System design exploration, architectural research, and foundational work that in
 
 Problem first. Technology second.
 
-I don't build for the sake of technology — I build because there's a problem that needs solving. Every system I design starts with understanding the operational reality, the friction points, the money leak, the workflow that shouldn't take three tools to do one job. Then I decide what tech fits.
+I don't build for the sake of technology, I build because there's a problem that needs solving. Every system I design starts with understanding the operational reality, the friction points, the money leak, the workflow that shouldn't take three tools to do one job. Then I decide what tech fits.
 
 This is the philosophy that drives every layer I build:
 
@@ -154,3 +154,5 @@ Maintainable structure over shortcuts
 > "I build systems that make money visible and operations predictable."
 
 Based in **Nigeria**. Open to infrastructure-driven SaaS, system architecture, and operational technology collaborations.
+
+
