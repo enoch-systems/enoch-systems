@@ -7,59 +7,43 @@ Backend architecture • Operational SaaS • Infrastructure systems
 
 <br><br>
 
-<table>
-  <tr>
+<a href="https://www.linkedin.com/in/enochchukwudi/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<br>
+LinkedIn
 
-    <td align="center">
-      <a href="https://www.linkedin.com/in/enochchukwudi/">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a>
-      <br><br>
-      <b>LinkedIn</b>
-    </td>
+<br><br>
 
-    <td width="40"></td>
+<a href="https://x.com/_enochsystems">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+<br>
+X (Twitter)
 
-    <td align="center">
-      <a href="https://x.com/_enochsystems">
-        <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-      </a>
-      <br><br>
-      <b>X (Twitter)</b>
-    </td>
+<br><br>
 
-    <td width="40"></td>
+<a href="https://github.com/enoch-systems">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<br>
+GitHub
 
-    <td align="center">
-      <a href="https://github.com/enoch-systems">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-      <br><br>
-      <b>GitHub</b>
-    </td>
+<br><br>
 
-    <td width="40"></td>
+<a href="mailto:enochc.official@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<br>
+Email
 
-    <td align="center">
-      <a href="mailto:enochc.official@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-      </a>
-      <br><br>
-      <b>Email</b>
-    </td>
+<br><br>
 
-    <td width="40"></td>
-
-    <td align="center">
-      <a href="https://enochport.vercel.app/">
-        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-      </a>
-      <br><br>
-      <b>Portfolio</b>
-    </td>
-
-  </tr>
-</table>
+<a href="https://enochport.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<br>
+Portfolio
 
 </div>
 
