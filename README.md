@@ -11,7 +11,7 @@ Backend architecture • Operational SaaS • Infrastructure systems
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <br>
-LinkedIn
+@enochchukwudi
 
 <br><br>
 
@@ -19,7 +19,7 @@ LinkedIn
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 <br>
-X (Twitter)
+@_enochsystems
 
 <br><br>
 
@@ -27,7 +27,7 @@ X (Twitter)
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <br>
-GitHub
+@enoch-systems
 
 <br><br>
 
@@ -35,7 +35,7 @@ GitHub
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <br>
-Email
+enochc.official@gmail.com
 
 <br><br>
 
@@ -43,7 +43,7 @@ Email
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <br>
-Portfolio
+enochport.vercel.app
 
 </div>
 
