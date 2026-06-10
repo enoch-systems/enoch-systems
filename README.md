@@ -40,7 +40,7 @@ enochc.official@gmail.com
 <br><br>
 
 <a href="https://enochport.vercel.app/">
-  <img src="https://raw.githubusercontent.com/enoch-systems/enoch-systems/main/assets/favicon.png" width="22"/>
+  <img src="https://raw.githubusercontent.com/enoch-systems/enoch-systems/main/assets/favicon.png" width="40"/>
 </a>
 <br>
 enochport.vercel.app
