@@ -136,6 +136,12 @@ System design exploration, architectural research, and foundational work that in
 
 ## Engineering Philosophy
 
+Problem first. Technology second.
+
+I don't build for the sake of technology — I build because there's a problem that needs solving. Every system I design starts with understanding the operational reality, the friction points, the money leak, the workflow that shouldn't take three tools to do one job. Then I decide what tech fits.
+
+This is the philosophy that drives every layer I build:
+
 ```
 First principles over abstraction overload
 Explicit system design over hidden magic
