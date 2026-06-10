@@ -131,15 +131,20 @@ from client-facing interfaces down to infrastructure.
 
 <br>
 
-## Project Domains
+## Projects
 
-**African Market Systems**
-Operational platforms built for emerging markets.
-Logistics visibility, fraud detection networks, credit intelligence systems, merchant operating systems, cooperative banking platforms, supply chain networks, healthcare infrastructure, cross-border payments.
+Projects are organized into three categories reflecting the types of systems I build.
 
-**Global SaaS Infrastructure**
-Enterprise-grade platforms built for scale.
-Multi-tenant ERP, workflow automation, identity and access management, compliance and AML, API governance, real-time observability, developer platforms, contract lifecycle management, vendor risk systems.
+<br>
+
+### Engineering Systems
+Full-stack engineering projects focused on backend architecture, APIs, business logic, and infrastructure — the core operational systems I specialize in.
+
+### Client Systems
+Client-facing applications including web apps, mobile apps, dashboards, and admin panels — built with modern frontend technologies and clean user experiences.
+
+### Research & Architecture
+System design exploration, architectural research, and foundational work that informs how systems are structured and scaled.
 
 <br>
 
