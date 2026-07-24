@@ -2,8 +2,7 @@
 
 # Enoch Chukwudi
 
-**Fullstack Engineer (Backend-Focused)**  
-Backend architecture • Operational SaaS • Infrastructure systems  
+**Software Engineer | Scalable Systems**  
 Nigeria (Remote) — WAT (UTC+1)
 
 <br><br>
